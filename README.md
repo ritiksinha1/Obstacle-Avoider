@@ -4,3 +4,5 @@ Slow down the square moving vertically to avoid the blue enemies moving in from 
 
 
 Final project for AP Computer Science in 10th grade.
+
+![](image/ObstacleAvoider1.png)
